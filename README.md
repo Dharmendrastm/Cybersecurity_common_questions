@@ -28,7 +28,7 @@ The CIA traids is foundational model in cybersecurity, standing for Confidential
 
 **Threats**:- A threat is an event, natural or man-made able to cause the negative impact of an organisation.
 
-**Exploit**:-An Exploit is defined as way to  breach the security of an IT System througha Vulnerability.
+**Exploit**:-An Exploit is defined as way to  breach the security of an IT System through a Vulnerability.
 
 **Risk**:- It is situation involving exposure to danger.
 
