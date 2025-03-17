@@ -229,6 +229,22 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 **Attack**:- Sniffing.
 
+---
+
+**What is TCP/IP MOdel?**
+
+--TCP/IP Model , it was desgined and devloped by department of defense (DOD) in 1960s and is based on standard protocol.It stand for transmission control protocol/Internet protocol. The TCP/IP model is a concise version of the model.
+
+**It Contains four layer**
+
+1. Process/Application layer
+2. HOst-to-Host/transport layer
+3. Internet layer.
+4. Network access/link layer
+
+---
+
+
 
 
 
