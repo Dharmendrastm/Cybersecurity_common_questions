@@ -16,7 +16,7 @@ The CIA traids is foundational model in cybersecurity, standing for Confidential
 
 **Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
 
-**Integrity**:- Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
+**Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
 
 **Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
 
@@ -24,13 +24,13 @@ The CIA traids is foundational model in cybersecurity, standing for Confidential
 
 **Explain Vulnerability, Threats, Exploit and Riks?**
 
-**Vulnerability**:- A Vulnerability is a flaw, loopholes, oversight and error that can be exploited by violate system security policy.
+**Vulnerability**:-A Vulnerability is a flaw, loopholes, oversight and error that can be exploited by violate system security policy.
 
-**Threats**:- A threat is an event, natural or man-made able to cause the negative impact of an organisation.
+**Threats**:-A threat is an event, natural or man-made able to cause the negative impact of an organisation.
 
 **Exploit**:-An Exploit is defined as way to  breach the security of an IT System through a Vulnerability.
 
-**Risk**:- It is situation involving exposure to danger.
+**Risk**:-It is situation involving exposure to danger.
 
 ---
 **What is AAA?**
@@ -237,10 +237,76 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 **It Contains four layer**
 
-1. Process/Application layer
-2. HOst-to-Host/transport layer
-3. Internet layer.
-4. Network access/link layer
+1. Process/Application layer-Application+Presenation+Session Layer
+2. HOst-to-Host/-Transport layer -transport layer
+3. Internet layer- Network layer
+4. Network access/link layer- DataLink Layer+Physical Layer
+
+---
+
+**What is OWASP**
+
+--OWASP Top10 is an online document on OWASP's website that provides ranking of and remediations guidance for the top 10 most critical web application security risks.
+
+--The owasp top 10 is a list of the most critical web application security risks, compiled by the Open Web application Security project. IT Provides guidance to devlopers, security teams, and organisations on addressing the most common and impactful vulnerabilities.
+
+1. **BROKEN ACCESS CONTROL**
+
+   --Flaws that allow users to act outside their intended permissions, such as gaining unauthorised access to restricted resources.
+
+  **EX**:- A normal user modifying a URL to access an admin page.
+
+2. **Cryptographic Failures**
+
+   --Weak or improperly implemented cryptographic mechanisms that expose sensitive data.
+
+**EX**:- Storing passwords in plaintext or using  weak encryption algorithms like MD5.
+
+3. **Injection**
+
+   --Inserting malicious code into a program often through user inputs, to execute unintended  commands or queries.
+
+**EX**:- SQL injection, where an attacker can manipulate a database query by injecting SQL code.
+
+4. **Insecure Desgin**
+
+   -- Flaws resulting froms the absence of secuirty in the desgin of applications, often due to lack  of security controls in the desgin phase.
+
+**EX**:-No proper Validation on inputs allowing for attacks like XSS.
+
+5. **Security Misconfiguration**
+
+   -- Improper configuration of security setting in applications, servers, or database, exposing system to attacks.
+
+**EX**:- Leaving default account active, unnecessary fatures enabled or error mssages revealing too much inforamtion.
+
+6. **Vulnerable and outdated components**
+
+   --Using libraries, framework, or other components with known vulnerbilities can introduce security risks.
+
+**EX**:- Running  an onoutdated version of a software libarary that is vulnerable to known attacks.
+
+7. **Identification and authentication Failures**
+
+   --Weak authentications mechanisms or improper session handling, which allow attackers compromise user indentities.
+
+**EX**:- Allowing weak passwords or session hijacking due to insecure token handling.
+
+8. **Software and Data Integrity failures**
+
+   --Failures related to saoftware updates, critical data, or CI/CD pipelines not being preoperly verified for intergrity.
+
+**EX**:-Allowing unsigned or untrusted software updates, which could lead to compromise.
+
+9. **Security logging and monitoring failures**
+    --Lack of sufficient logging, monitoring or response mechanism , leading to undetected attack and delayed incident response.
+
+**EX**:-Not logging failed login attempt or ignoring alerts for  suspicious activity.
+
+10. **Server-side request frogery (SSRF)**
+    -- An attacker tricks a server into making unintended requests to other resources. potentially exposing sensitive internal systems.
+
+**EX**:- Exploiting an API to make the server fetch unauthorised data from internal netwoks.
 
 ---
 
