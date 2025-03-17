@@ -160,6 +160,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ---
 
 **Persentation Layer**
+
 --Translate, encrypt, and compress data.
 
 **Protocol**:-SSL, TLS, ASCII, JPEG, MPEG.
@@ -169,6 +170,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ---
 
 **Session Layer**
+
 --To establish, manage, and terminate sessions.
 
 **Protocol**:- NetBios, PPTP, RPC, SIP, SSH.
@@ -178,6 +180,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ---
 
 **Transport Layer**
+
 --Provide reliable end to end communication solution.
 
 --From Segments
@@ -213,7 +216,9 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 **Attack**:- Spoofing.
 
 ---
+
 **Physical layer**
+
 -- Controls the way unstrucutred, raw,bit-stream data is sent and received over a physical medium.
 
 -- Composed of the electrical, optical and physical components of the netwrok.
@@ -221,6 +226,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 --From Bits
 
 **Protocol**:- COax, Fiber, wireless, RJ45, Bluetooth.
+
 **Attack**:- Sniffing.
 
 
