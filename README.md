@@ -317,7 +317,7 @@ The type of penetraion testing noramlly depends on the scope and the organizatio
 
 **BLACK BOX PENETRATION TESTING**
 
---In this black box penetration testing, tester has no idea about the systems that he is going to test . He is intrested to gather information about the target netwrok or systems.
+--In this black box penetration testing, tester has no idea about the systems that he is going to test . He is intrested to gather information about the target network or systems.
 
 **WHITE BOX 
 
