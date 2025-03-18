@@ -22,7 +22,7 @@ The CIA traids is foundational model in cybersecurity, standing for Confidential
 
 ---
 
-**Explain Vulnerability, Threats, Exploit and Riks?**
+**Explain Vulnerability, Threats, Exploit and Risk?**
 
 **Vulnerability**:-A Vulnerability is a flaw, loopholes, oversight and error that can be exploited by violate system security policy.
 
