@@ -294,7 +294,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 8. **Software and Data Integrity failures**
 
-   --Failures related to saoftware updates, critical data, or CI/CD pipelines not being preoperly verified for intergrity.
+   --Failures related to software updates, critical data, or CI/CD pipelines not being preoperly verified for intergrity.
 
 **EX**:-Allowing unsigned or untrusted software updates, which could lead to compromise.
 
