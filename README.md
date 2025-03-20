@@ -14,11 +14,11 @@ Information security is the process of employed to safeguard inforamtion in any 
 
 The CIA traids is foundational model in cybersecurity, standing for Confidentiality, Intergrity and Availability. It outlines the three essential principle that ensure the protection of data.
 
-# **Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
+**Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
 
-# **Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
+**Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
 
-# **Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
+**Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
 
 ---
 
