@@ -1,28 +1,28 @@
 # Cybersecurity_VAPT-Interview-questions
 ---
 
-**What is Cyber security?**
+ # **What is Cyber security?**
 
 cybersecurity protects computer sytem network and data from theft damage and unauthorised access. It Important to safeguard sensitive ifnformation , maintain privacy and prevent financial losses and protect critical infrastructure from cyber threats.
 
-**What is Information security?**
+# **What is Information security?**
 
 Information security is the process of employed to safeguard inforamtion in any form (Physical or electronic) from unauthorised accessed, discloure and destruction.
 
 ---
-**What is CIA traids?**
+# **What is CIA traids?**
 
 The CIA traids is foundational model in cybersecurity, standing for Confidentiality, Intergrity and Availability. It outlines the three essential principle that ensure the protection of data.
 
-**Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
+# **Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
 
-**Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
+# **Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
 
-**Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
+# **Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
 
 ---
 
-**Explain Vulnerability, Threats, Exploit and Risk?**
+# **Explain Vulnerability, Threats, Exploit and Risk?**
 
 **Vulnerability**:-A Vulnerability is a flaw, loopholes, oversight and error that can be exploited by violate system security policy.
 
@@ -33,7 +33,7 @@ The CIA traids is foundational model in cybersecurity, standing for Confidential
 **Risk**:-It is situation involving exposure to danger.
 
 ---
-**What is AAA?**
+# **What is AAA?**
 
 It is stand for Authenticaton, Authorization and Accounting. It is framework for controlling access to resources and proper identify verification and tracking the use of system resources.
 
@@ -45,13 +45,13 @@ It is stand for Authenticaton, Authorization and Accounting. It is framework for
 
 ---
 
-**Define Identification**
+# **Define Identification**
 
 Identification is the process of reognizing and uniquely identifying user within system or application. It establishe who the user.
 
 ---
 
-**What is 3-way Hanshake?**
+# **What is 3-way Hanshake?**
 
 A three way handshake is a method of TCP/IP network to create a connection  between a local host/ client and server.
 
@@ -63,7 +63,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ----
 
-**What IS SSL/TLS handshake?**
+# **What IS SSL/TLS handshake?**
 --SSL Stand for  Secure Scoket layer.
 
 --Netscape was developed the first version of SSL in 1995.
@@ -85,7 +85,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**Accounting and Auditing**
+# **Accounting and Auditing**
 
 -- Accounting is refers to tracking and recording to the action performed by a user or system. It helps monitor activities, create logs, and maintain audits trails for future analysis and compliance purposes.
 
@@ -95,7 +95,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**Encryption , Encoding  and Hashing**
+# **Encryption , Encoding  and Hashing**
 
 --**Encryption**:-Protect data confidentiality by transforming plaintext into cipher text.
 
@@ -111,7 +111,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**Differnce between TCP and UDP**
+# **Differnce between TCP and UDP**
 **TCP** 
 --It stands for Transmission Control Protocol.
 
@@ -137,7 +137,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**What is OSI Model?**
+# **What is OSI Model?**
 
 --OSI stand for open system interconnections a reference model that descibes how information from a software appliactions in one computer moves through a physical medium to the software application in another computer.
 
@@ -231,7 +231,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**What is TCP/IP MOdel?**
+# **What is TCP/IP MOdel?**
 
 --TCP/IP Model , it was desgined and devloped by department of defense (DOD) in 1960s and is based on standard protocol.It stand for transmission control protocol/Internet protocol. The TCP/IP model is a concise version of the model.
 
@@ -244,7 +244,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**What is OWASP**
+# **What is OWASP**
 
 --OWASP Top10 is an online document on OWASP's website that provides ranking of and remediations guidance for the top 10 most critical web application security risks.
 
@@ -310,7 +310,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ---
 
-**What is pentesting and types of pentesting**
+# **What is pentesting and types of pentesting**
 --Penetration testing is also knwon as pen testing or ethical hacking. It describe the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications.
 
 The type of penetraion testing noramlly depends on the scope and the organizational wants and requirements. this can classified into 3 types.
