@@ -119,35 +119,12 @@ Ex:- MD5, SHA-1 , SHA-256
 
 # **Differnce between TCP and UDP**
 
-| Feature            | TCP (Transmission Control Protocol) | UDP (User Datagram Protocol) |
+| Feature            | It stands for (Transmission Control Protocol) |It stands for UDP (User Datagram Protocol) |
 |--------------------|----------------------------------|----------------------------|
-| **Type**          | Connection-oriented             | Connectionless            |
-| **Acknowledgment**| Received                        | Not received              |
-| **Speed**        | Comparatively slower            | Faster, simpler, and more efficient |
+| **Type**          | It is a connection-oriented  protocol           |It is a  connectionless protocol      |
+| **Acknowledgment**| Acknowledgment is received                        |Acknowledgment is not received              |
+| **Speed**        | TCP is omparatively slower than UDP          | UDP is Faster, simpler, and more efficient than TCP |
 | **Usage**        | Used by HTTP, HTTPS, FTP, SMTP, Telnet | Used by DNS, DHCP, TFTP, SNMP, RIP, VOIP |
-
-**TCP** 
---It stands for Transmission Control Protocol.
-
---It is a connection oriented protocol.
-
---Acknowledgement is received.
-
---TCP is compratively slower than UDP.
-
---TCP is used by HTTP, HTTPS, FTP, SMTP and telent.
-
-**UDP**
-
---It stands for user-datagram protocol.
-
---It is connection less protocol.
-
---Acknowledgment is not received.
-
---UDP is faster simpler and more efficient than TCP.
-
---UDP is used by DNS , DHCP, TFTP,SNMP, RIP,VOIP.
 
 ---
 # What is Firewall and Why it is used?
