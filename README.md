@@ -165,7 +165,6 @@ IDS (Intrusion Detection System): Monitors network traffic and generate suspicio
 IPS(Intrusion Preventation System): Not Only Detects but also actively block orprevent suspicious network activity.
 
 --
-
 # What is VPN?
 A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection between your device and the internet, protecting your online privacy and data. It hides your IP address and encrypts your internet traffic, making it difficult for hackers, governments, and ISPs (Internet Service Providers) to track your online activities.
 
