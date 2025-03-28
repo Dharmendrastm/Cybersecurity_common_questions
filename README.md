@@ -112,6 +112,14 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ---
 
 # **Differnce between TCP and UDP**
+
+| Feature            | TCP (Transmission Control Protocol) | UDP (User Datagram Protocol) |
+|--------------------|----------------------------------|----------------------------|
+| **Type**          | Connection-oriented             | Connectionless            |
+| **Acknowledgment**| Received                        | Not received              |
+| **Speed**        | Comparatively slower            | Faster, simpler, and more efficient |
+| **Usage**        | Used by HTTP, HTTPS, FTP, SMTP, Telnet | Used by DNS, DHCP, TFTP, SNMP, RIP, VOIP |
+
 **TCP** 
 --It stands for Transmission Control Protocol.
 
