@@ -92,7 +92,7 @@ Accounting is refers to tracking and recording to the action performed by a user
 
 **Auditing**
 
-The portion of accouting requires secuirty professionals to examine logs of what was recorded.
+The portion of accouting requires security professionals to examine logs of what was recorded.
 
 ---
 
