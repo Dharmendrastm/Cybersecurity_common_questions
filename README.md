@@ -155,6 +155,8 @@ Ex:- MD5, SHA-1 , SHA-256
 
 --OSI stand for open system interconnections a reference model that descibes how information from a software appliactions in one computer moves through a physical medium to the software application in another computer.
 
+The OSI model is developed by International Organisation for standardization (ISO) in 1984.
+
 -- OSI model consist of seven layers and each layer performs particular network function.
 
 --Upper layer of the OSI model mainly deals with the application related issues and they are implemented only in the software.
