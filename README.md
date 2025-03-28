@@ -63,7 +63,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 ----
 
-# **What IS SSL/TLS handshake?**
+# **What is SSL/TLS handshake?**
 --SSL Stand for  Secure Scoket layer.
 
 --Netscape was developed the first version of SSL in 1995.
@@ -129,13 +129,13 @@ Ex:- MD5, SHA-1 , SHA-256
 **TCP** 
 --It stands for Transmission Control Protocol.
 
--- It is a connection oriented protocol.
+--It is a connection oriented protocol.
 
 --Acknowledgement is received.
 
 --TCP is compratively slower than UDP.
 
--- TCP is used by HTTP, HTTPS, FTP, SMTP and telent.
+--TCP is used by HTTP, HTTPS, FTP, SMTP and telent.
 
 **UDP**
 
