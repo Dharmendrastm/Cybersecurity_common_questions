@@ -354,7 +354,7 @@ The OSI model is developed by International Organisation for standardization (IS
 
 ---
 
-# What is pentesting and types of pentesting**
+# What is pentesting and types of pentesting
 Penetration testing is also knwon as pen testing or ethical hacking. It describe the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications.
 
 The type of penetraion testing noramlly depends on the scope and the organizational wants and requirements. this can classified into 3 types.
@@ -373,20 +373,3 @@ White box Penetration testing examines the code coverage and does data flow test
 In this grey box testing a tester usuallyprovides partial or limited information about the internal details of the program of a system.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
