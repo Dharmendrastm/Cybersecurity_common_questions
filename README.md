@@ -86,28 +86,29 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ---
 
 # **Accounting and Auditing**
+**Accounting**
 
--- Accounting is refers to tracking and recording to the action performed by a user or system. It helps monitor activities, create logs, and maintain audits trails for future analysis and compliance purposes.
+Accounting is refers to tracking and recording to the action performed by a user or system. It helps monitor activities, create logs, and maintain audits trails for future analysis and compliance purposes.
 
 **Auditing**
 
---The portion of accouting requires secuirty professionals to examine logs of what was recorded.
+The portion of accouting requires secuirty professionals to examine logs of what was recorded.
 
 ---
 
 # **Encryption , Encoding  and Hashing**
 
---**Encryption**:-Protect data confidentiality by transforming plaintext into cipher text.
+**Encryption**:-Protect data confidentiality by transforming plaintext into cipher text.
 
---EX:- AES, RSA
+EX:- AES, RSA
 
---**Encoding**:- Transform data into a different format for proper.
+**Encoding**:- Transform data into a different format for proper.
 
---EX:- Base64, ASCII ,URL ,encoding
+EX:- Base64, ASCII ,URL ,encoding
 
---**Hashing**:-  Ensure data integrity by transforming data into a fixed-size string.
+**Hashing**:-  Ensure data integrity by transforming data into a fixed-size string.
 
---Ex:- MD5, SHA-1 , SHA-256
+Ex:- MD5, SHA-1 , SHA-256
 
 ---
 
