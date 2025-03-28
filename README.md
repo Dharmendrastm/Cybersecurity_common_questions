@@ -342,6 +342,7 @@ The type of penetraion testing noramlly depends on the scope and the organizatio
 In this black box penetration testing, tester has no idea about the systems that he is going to test . He is intrested to gather information about the target network or systems.
 
 **WHITE BOX PENETRATION TESTING**
+
 In this white box penetration testing, it is noramlly considered as a simulationn of an attack by an internal source. It is also known as structural, glass box, and open box testing.
 
 White box Penetration testing examines the code coverage and does data flow testing, path testing, loop testing, etc.
