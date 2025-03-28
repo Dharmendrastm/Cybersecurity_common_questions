@@ -322,12 +322,13 @@ In this black box penetration testing, tester has no idea about the systems that
 # **WHITE BOX PENETRATION TESTING
 In this white box penetration testing, it is noramlly considered as a simulationn of an attack by an internal source. It is also known as structural, glass box, and open box testing.
 
---White box Penetration testing examines the code coverage and does data flow testing, path testing, loop testing, etc.
-
+White box Penetration testing examines the code coverage and does data flow testing, path testing, loop testing, etc.
 
 # **GREY BOX PENETRATION TEESTING
 
 In this grey box testing a tester usuallyprovides partial or limited information about the internal details of the program of a system.
+
+---
 
 
 
