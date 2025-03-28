@@ -100,13 +100,18 @@ The portion of accouting requires security professionals to examine logs of what
 
 **Encryption**:-Protect data confidentiality by transforming plaintext into cipher text.
 
+**Decryption**:- Reversible with the correct decryption key.
+
 EX:- AES, RSA
 
-**Encoding**:- Transform data into a different format for proper.
+**Encoding**:- Transform data into a different format for proper interpretion by systems.
+
+**Decoding**:- Reversible using a decoding scheme.
 
 EX:- Base64, ASCII ,URL ,encoding
 
 **Hashing**:-  Ensure data integrity by transforming data into a fixed-size string.
+
 
 Ex:- MD5, SHA-1 , SHA-256
 
