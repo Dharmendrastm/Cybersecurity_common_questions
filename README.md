@@ -169,7 +169,7 @@ Ex:- MD5, SHA-1 , SHA-256
 
 **Protocol**:- HTTP, FTP, SMTP, POP, SNMP, DHCP.
 
-**Attack**:- EXploit.
+**Attack**:- Exploit.
 
 ---
 
