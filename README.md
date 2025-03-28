@@ -3,7 +3,7 @@
 
  # **What is Cyber security?**
 
-Cybersecurity protects computer sytem network and data from theft damage and unauthorised access. It Important to safeguard sensitive ifnformation , maintain privacy and prevent financial losses and protect critical infrastructure from cyber threats.
+Cybersecurity protects computer sytem network and data from theft damage and unauthorised access. It Important to safeguard sensitive information , maintain privacy and prevent financial losses and protect critical infrastructure from cyber threats.
 
 # **What is Information security?**
 
