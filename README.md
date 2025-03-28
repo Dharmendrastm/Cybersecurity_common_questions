@@ -311,15 +311,23 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ---
 
 # **What is pentesting and types of pentesting**
---Penetration testing is also knwon as pen testing or ethical hacking. It describe the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications.
+Penetration testing is also knwon as pen testing or ethical hacking. It describe the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications.
 
 The type of penetraion testing noramlly depends on the scope and the organizational wants and requirements. this can classified into 3 types.
 
 **BLACK BOX PENETRATION TESTING**
 
---In this black box penetration testing, tester has no idea about the systems that he is going to test . He is intrested to gather information about the target network or systems.
+In this black box penetration testing, tester has no idea about the systems that he is going to test . He is intrested to gather information about the target network or systems.
 
-**WHITE BOX 
+# **WHITE BOX PENETRATION TESTING
+In this white box penetration testing, it is noramlly considered as a simulationn of an attack by an internal source. It is also known as structural, glass box, and open box testing.
+
+--White box Penetration testing examines the code coverage and does data flow testing, path testing, loop testing, etc.
+
+
+# **GREY BOX PENETRATION TEESTING
+
+In this grey box testing a tester usuallyprovides partial or limited information about the internal details of the program of a system.
 
 
 
