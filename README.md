@@ -157,14 +157,14 @@ Firewall is mainly used  to protect the system/network from viruses, worms, malw
 # What is web Application Firewall?
 The Web application firewall helps to protect web applications by filtering and monitoring the HTTP traffic between a web application and the internet.
 
---
+---
 # IDS and IPS
 
 IDS (Intrusion Detection System): Monitors network traffic and generate suspicious activity is detected.
 
 IPS(Intrusion Preventation System): Not Only Detects but also actively block orprevent suspicious network activity.
 
---
+---
 # What is VPN?
 A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection between your device and the internet, protecting your online privacy and data. It hides your IP address and encrypts your internet traffic, making it difficult for hackers, governments, and ISPs (Internet Service Providers) to track your online activities.
 
@@ -176,8 +176,7 @@ Tunneling – It creates a secure tunnel between your device and a VPN server, e
 
 IP Masking – Your real IP address is replaced with the VPN server’s IP, making your location and identity anonymous.
 
---
-
+---
 # **What is OSI Model?**
 
 --OSI stand for open system interconnections a reference model that descibes how information from a software appliactions in one computer moves through a physical medium to the software application in another computer.
