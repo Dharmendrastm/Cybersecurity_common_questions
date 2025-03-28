@@ -78,7 +78,7 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 
 -- the first version of TLS was developed by the internet engineering taskforce (IETF) in 1999.
 
--- TLS is alo a cryptographic protocol that provides secure communicatiob between weserver and client via implicit connections.
+-- TLS is also a cryptographic protocol that provides secure communication between webserver and client via implicit connections.
 
 -- Four version of TLS have been released TLS 1.0, 1.1, 1.2 and 1.3.
 
