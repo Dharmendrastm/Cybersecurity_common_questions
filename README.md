@@ -352,3 +352,9 @@ White box Penetration testing examines the code coverage and does data flow test
 In this grey box testing a tester usuallyprovides partial or limited information about the internal details of the program of a system.
 
 ---
+
+# What is ports and most common network ports and services.
+
+Protocol is set of rule by defnition in computer networking, protocol is standard way for computer to exchange information eacah protocol has a port number assigned to it.
+
+There are 65,535 ports in total
