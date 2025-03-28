@@ -150,7 +150,23 @@ Ex:- MD5, SHA-1 , SHA-256
 --UDP is used by DNS , DHCP, TFTP,SNMP, RIP,VOIP.
 
 ---
+# What is Firewall and Why it is used?
+The Firewall is a network Security system  set on boundaries of the system/network that monitors abd controls network traffic.
+Firewall is mainly used  to protect the system/ network from viruses, worms, malware, etc. Firewalls can also be to prevent remote access and content filtering.
 
+# What is web Application Firewall?
+The Web application firewall helps to protect web applications by filtering and monitoring the HTTP traffic between a web application and the internet.
+
+--
+# IDS and IPS
+
+IDS (Intrusion Detection System): Monitors network traffic and generate suspicious activity is detected.
+
+IPS(Intrusion Preventation System): Not Only Detects but also actively block orprevent suspicious network activity.
+
+--
+# What is VPN ?
+A VPN (Vitural Private Network)
 # **What is OSI Model?**
 
 --OSI stand for open system interconnections a reference model that descibes how information from a software appliactions in one computer moves through a physical medium to the software application in another computer.
