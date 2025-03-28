@@ -1,4 +1,4 @@
-# Cybersecurity_VAPT-Interview-questions
+# Cybersecurity_common_questions
 ---
 
  # **What is Cyber security?**
