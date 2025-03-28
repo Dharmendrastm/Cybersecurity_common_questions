@@ -117,7 +117,7 @@ Ex:- MD5, SHA-1 , SHA-256
 
 ---
 
-# Differnce between TCP and UDP
+# Difference between TCP and UDP
 
 
 | Feature            | It stands for TCP (Transmission Control Protocol) |It stands for UDP (User Datagram Protocol) |
