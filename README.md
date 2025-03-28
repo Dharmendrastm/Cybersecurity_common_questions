@@ -175,7 +175,7 @@ Ex:- MD5, SHA-1 , SHA-256
 
 **Persentation Layer**
 
---Translate, encrypt, and compress data.
+--Responsible for Translate, encrypt, and compress data.
 
 **Protocol**:-SSL, TLS, ASCII, JPEG, MPEG.
 
