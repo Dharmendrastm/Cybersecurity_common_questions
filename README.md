@@ -349,7 +349,7 @@ White box Penetration testing examines the code coverage and does data flow test
 
 **GREY BOX PENETRATION TEESTING**
 
-In this grey box testing a tester usuallyprovides partial or limited information about the internal details of the program of a system.
+In this grey box testing a tester usually provides partial or limited information about the internal details of the program of a system.
 
 ---
 
