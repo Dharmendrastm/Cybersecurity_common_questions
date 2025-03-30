@@ -549,14 +549,14 @@ There are mainly three types of hackers.
 2. Black hat hacker
 3. Grey hat hacker
 
-White hat hacker :- White hat hacker is who use their skill to help organizations improve security they often condut VAPT.
+- **White Hat Hacker**: Ethical hacker who helps organizations improve security through VAPT.  
 
-Black hat hacker :- Black hat hacker is also known as malicious hacker who exploit systems for personal gain, such as stealing data, spreading malware, or causing damage.
+- **Black Hat Hacker**: Malicious hacker who exploits systems for personal gain.  
 
-Grey hat hacker :- hacker who many violate laws or ethical standards but without malicious intent.
+- **Grey Hat Hacker**: A hacker who may break rules but without malicious intent.
 
 # Cryptographic 
-Cryptographiuc is the science of encrypting and decrypting inforamtion to prevent unauthorised access.
+Cryptographic is the science of encrypting and decrypting information to prevent unauthorised access.
 
 
 
