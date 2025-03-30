@@ -429,4 +429,16 @@ Burpsuite is a set of tools for penetration testing of webappliactions. It was d
 | Sequencer | Analyzes the radomness of tokens and session identifiers to assess their strenght and predictablity |-token randomness analysis - session identifieer analysis -statistical reports |
 | Extender | Allow users to add custom funtionality to Burpsuite through extensions and plugins |  -Add and manage extensions - Customize burpsuite capabilites -Support for third-party plugins |
 
+---
+# What is wireshark?
+Wireshark is an open-source tool very widely used to traffic in a network in real time. It helps us to analyse the data packets flowing in the network thus providing valuable information about the network behaviour and its performance as well as security. 
+Network Traffic Analysis,Intrusion Detection and Prevention,Malware Analysis,Network Forensics,Vulnerability Analysis,Security Monitoring and Incident Response.
+
+---
+# What is Nmap?
+Nmap (Network Mapper) is an open-source tool used for network discovery and security auditing. It scans networks to detect live hosts, open ports, running services, and operating system details.
+
+---
+# What is SQLMap?
+SQLmap is an open-source tool that automates the detection and exploitation of SQL injection vulnerabilities in web applications.
 
