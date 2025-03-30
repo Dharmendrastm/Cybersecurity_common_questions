@@ -555,5 +555,8 @@ Black hat hacker :- Black hat hacker is also known as malicious hacker who explo
 
 Grey hat hacker :- hacker who many violate laws or ethical standards but without malicious intent.
 
+# Cryptographic 
+Cryptographiuc is the science of encrypting and decrypting inforamtion to prevent unauthorised access.
+
 
 
