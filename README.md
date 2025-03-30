@@ -1,4 +1,9 @@
 # Cybersecurity_common_questions
+
+Father of Cybersecurity :- BOB Thomas.
+Father of Networking :- Dr Ivan misner.
+Linux Invented by :- Linus trovald.
+
 ---
 
  # **What is Cyber security?**
