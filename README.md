@@ -392,4 +392,41 @@ There are 65,535 ports in total
 
 ---
 
+# DNS Working 
+| Step | Description |
+|------|-------------|
+| 1. Initial Query | When searching for www.example.com the browser and OS first check their local cache for the  corresponding IP address |
+| 2. Cache miss | If no record is found, the OS queries the "Resolving Name  server " (RNS) For the IP addres. The RNS checks its own cache |
+| 3. Root Name Servers | If the RNS does not have the record, it queries the Root name server, which provide addresses of the TLD Name Server for .com |
+| 4. TLD Nmae Server | The RNS queries the .com TLD name server, which provide the address of the Authoritative Nmae Server for example.com |
+| 5. Authorative Name Server | The Authorative Nmae Server for example.com provide the IP address of www.example.com. The RNS cahches this result and returns it to the OS |
+
+
+---
+# SSH handshake Process
+
+| Step | Description |
+|-----|-------------|
+| 1. Clients initiates | The SSH clients initiates a connectiosn to the SSH server by sending a connection request |
+| 2. Server  respond | The SSH server responds with its public key and a set of supported algorithm |
+| 3. Key Exchange | The client and server exchange cryptographic keys to agree on ashared secret for encryption |
+| 4. Authentication | the clients sends an authentication request (username and password, or key-based authentication) |
+| 5. server verifies | the server verifies the clients credentials. if valid, it send an acknowledgement |
+| 6. Secure Connection | Once authentication is sucessful, both the clients and server establish an encrypted session |
+
+---
+# What is Burpsuite?
+Burpsuite is a set of tools for penetration testing of webappliactions. It was developed by the company named by Portswigger.which is the also alias of its founder dafydd struff.
+
+| Tool | Desription | Key features |
+|-----|------------|--------------|
+| Proxy | Allows users to view and modify the contents of requests and responses while they transit. | -view modify request and response. - Forward to other tools -Configurable proxy setting |
+| Intruder | Automates customized attakcs against web applications | -Brute Force - Dictionary attacks - Rate limiting tests |
+| Repeter | Manually manipulates and issues individual HTTP requests analyze responses | -send modify, and reisues requests - Detailed response analysis |
+| Decoder | Decodes and encodes data using common methos like URL,HTML,BASE64, and Hex | -common encoding decoding methods - analyzes data in parameters or headers |
+| Scanner | Automatically scans web applications for Vulnerability | - automated Vulnerability scaning - deatiled reports - Customizable scan setting |
+| Comparer | Compares two sets of data to identify diffrences, useful for analyzing responses or request variations | -comparer request and responses  - Highlights diiferences |
+| Sequencer | Analyzes the radomness of tokens and session identifiers to assess their strenght and predictablity |-token randomness analysis - session identifieer analysis -statistical reports |
+| Extender | Allow users to add custom funtionality to Burpsuite through extensions and plugins |  -Add and manage extensions - Customize burpsuite capabilites -Support for third-party plugins |
+
 
