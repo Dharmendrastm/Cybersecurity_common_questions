@@ -485,3 +485,75 @@ SQLmap is an open-source tool that automates the detection and exploitation of S
 | WAF Bypass with Custom Payload | sqlmap -u "http://test.com" --tamper="random_case" |
 
 ---
+# What is cross-site scripting?
+
+Attacker inject malicious script into trusted websites, which then execute in the victim's browser potenially leading to session hijackiing or data theft.
+
+1. **Reflected XSS** – Malicious script is injected into a request (e.g., URL) and reflected in the response. It is not stored on the server.  
+2. **Stored XSS** – The script is permanently stored on the server (e.g., in a database) and executed when users visit the affected page.  
+3. **DOM-Based XSS** – The attack manipulates the page’s DOM using JavaScript without involving the server, executing malicious code dynamically in the browser.  
+
+
+---
+# What is SQl Injection ?
+
+Attacker insert malicious sql code into a web application database query allowing them maipulate or gain unauthrised access to the database.
+1. **Boolean-Based SQLi** – Exploits conditional responses (true/false) to infer database information.  
+2. **Time-Based SQLi** – Uses delays (e.g., `SLEEP()` function) to determine if a query is vulnerable.  
+3. **Error-Based SQLi** – Extracts data by triggering database error messages.  
+4. **Union-Based SQLi** – Uses `UNION` statements to fetch additional data from different tables.  
+5. **Blind SQLi** – The attacker receives no direct feedback but determines information through indirect observations.  
+6. **Out-of-Band SQLi** – Uses external channels (e.g., DNS or HTTP requests) to exfiltrate data.  
+
+----
+# What is most Common Cyber threads?
+
+The most common cyber threads  is Malware, Ransomware, DDoS (Distributed Denial of services) Phishing attack .
+
+# Define terms Virus, Malware, Ransomware, DDoS, Phishing, MITM (Man-the-middle-attack).
+
+# Virus 
+
+A computer virus is a form of computer program that replicates itself on execution. they after different computer program by attaching it's own code.
+
+# Malware 
+
+Malware is a malicious software that is programmed to cause damage to a computer system, network and hardware devices.
+
+# Ransomware 
+
+Ransomware is a malicious software encrypting files or computer sytem and requesting a ransom for their encryption.
+
+# DoS 
+
+Involve a single attacker flooding the target with traffic.
+
+# Phishing 
+
+Phishing is a social engineering attack where attacker impersonate a trusted entity (Via emails, meassages or website) to trick victims. into divulgying sensitive information such as passwords or financial details.
+
+# MITM (Man-in-the-middle-attack) 
+
+In this attack the attacker securetly intercepts and alters communication between two parties without their knowledgement.
+
+# What is Social Engineering?
+
+Social Engineering manipulates individuals to disclouse confidential information or perform action for malicious purposes.
+
+---
+
+# What is types of hacker?
+
+There are mainly three types of hackers.
+1. White hat hacker
+2. Black hat hacker
+3. Grey hat hacker
+
+White hat hacker :- White hat hacker is who use their skill to help organizations improve security they often condut VAPT.
+
+Black hat hacker :- Black hat hacker is also known as malicious hacker who exploit systems for personal gain, such as stealing data, spreading malware, or causing damage.
+
+Grey hat hacker :- hacker who many violate laws or ethical standards but without malicious intent.
+
+
+
