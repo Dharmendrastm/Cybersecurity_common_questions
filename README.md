@@ -368,7 +368,7 @@ There are 65,535 ports in total
 
 | Service | Port Number | Function |
 |---------|-------------|----------|
-| FTP | 20,21 | Filw transfer Protocol use:- Transfer files uploading and Download |
+| FTP | 20,21 | File transfer Protocol use:- Transfer files uploading and Download |
 | SSH | 22 | Secure Shell Use:- Encrypts the connection fro remote login |
 | Telnet | 23 | Establish a connection to remote login Note:- Does not encrypt data linke SSH |
 | RDP | 3389 | Remote Desktop protocol | Use :- Connects a remote windows computers |
