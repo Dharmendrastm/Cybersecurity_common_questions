@@ -438,6 +438,28 @@ Network Traffic Analysis,Intrusion Detection and Prevention,Malware Analysis,Net
 # What is Nmap?
 Nmap (Network Mapper) is an open-source tool used for network discovery and security auditing. It scans networks to detect live hosts, open ports, running services, and operating system details.
 
+| Nmap | Command Examples |
+|-----|------------------|
+| Ping Scan | nmap -sn <target ip> |
+| Host Scan | nmap -sn <target ip> |
+| OS Scaning | nmap -O <target ip> |
+| Most Popular ports | nmap --top-ports 20 <target ip> |
+| Output to a file | nmap -oN output.txt |
+| Service version dectection | nmp -sV <target ip> |
+| Script Sacning | nmap --script=<script_nmae> <target> |
+| TCP SYN Scan | nmap -sS <target> |
+| UDP Scan | nmap -sU <target> |
+| Aggressive Scan | nmap -A <target> |
+| Traceroute Scan | nmap --tracerote <target> |
+| Full TCP Connect scan | nmap -sT <target> |
+| Version Detection Scan | nmap -sV --version-all <target> |
+| Idle Scan | nmap -sI <target> |
+| OS and Version Detection | nmap -O -sV <target> |
+| TCP ACK scan | nmap -sA <target> |
+| IP protocol scan | nmap -sO <target> |
+
+
+
 ---
 # What is SQLMap?
 SQLmap is an open-source tool that automates the detection and exploitation of SQL injection vulnerabilities in web applications.
