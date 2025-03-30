@@ -358,3 +358,31 @@ In this grey box testing a tester usually provides partial or limited informatio
 Protocol is set of rule by defnition in computer networking, protocol is standard way for computer to exchange information each protocol has a port number assigned to it.
 
 There are 65,535 ports in total
+
+| Service | Port Number | Function |
+|---------|-------------|----------|
+| FTP | 20,21 | Filw transfer Protocol use:- Transfer files uploading and Download |
+| SSH | 22 | Secure Shell Use:- Encrypts the connection fro remote login |
+| Telnet | 23 | Establish a connection to remote login Note:- Does not encrypt data linke SSH |
+| RDP | 3389 | Remote Desktop protocol | Use :- Connects a remote windows computers |
+| DNS | 53 | Domian Name System | Maps URL to IPs addresses |
+| SMTP | 25 | Simple mail transfer protocol  use: Sending mails |
+| POP3 | 110 | Post Office Protocol v3 |
+| MYSQL | 3306 | MySQL Databases Use: Connects to mysql databases |
+| PostgreSQL |5432 | PostgreSQL databse Use :- Connects to postgreSQL databases |
+| Oracle | 1521 | Oracle Databse Use: Connects to Oracle Database |
+| LDPA | 389 | Lightweight Directoray Access Protocol Use: Access Directory services |
+| SMB | 445 | Server Message Block Use: File sharing and Network Communication |
+| NetBIOS | 137, 138, 139 | Network Basic Input Output system Use: Receiving Emails |
+| MSSQL | 1433 | Microsoft SQL server Use: Connects to Microsoft SQl server Databses |
+| IMPA4 |  143 | Internet Message Access Control Protocol V4 USe: Receving emails (new version) |
+| HTTP | 80 | Hypertext transfer protocol Use: Connects to web pages on the internet |
+| HTTPS | 443 | Hypertext transfer protocol use: Secure protocl using SSL/ TLS certificates |
+| ARP | NA | Address Resoultion protocol Use : Maps IP addresses to MAC addressing for routing in IP subnets |
+| VNC | 5900 | Virtual Machine Computing  use: Remote Desktop Access |
+|Syslog | 161 | Simple Network Management Protocol Use: Network device  management and monitoring |
+
+
+---
+
+
