@@ -522,7 +522,7 @@ Malware is a malicious software that is programmed to cause damage to a computer
 
 # Ransomware 
 
-Ransomware is a malicious software encrypting files or computer sytem and requesting a ransom for their encryption.
+Ransomware is a malicious software encrypting files or computer sytem and requesting a ransom for their decryption.
 
 # DoS 
 
