@@ -71,23 +71,23 @@ A three way handshake is a method of TCP/IP network to create a connection  betw
 ----
 
 # **What is SSL/TLS handshake?**
---SSL Stand for  Secure Scoket layer.
+SSL Stand for  Secure Scoket layer.
 
---Netscape was developed the first version of SSL in 1995.
+Netscape was developed the first version of SSL in 1995.
 
---SSL is a cryptographic protocol that uses explicit connections to establish secure communication between webserver and client.
+SSL is a cryptographic protocol that uses explicit connections to establish secure communication between webserver and client.
 
---Three version of SSL have been released SSL 1.0,2.0 and 3.0 .
+Three version of SSL have been released SSL 1.0,2.0 and 3.0 .
 
 **TLS**
 
---TLS Stand for Transport Layer Security.
+TLS Stand for Transport Layer Security.
 
--- the first version of TLS was developed by the internet engineering taskforce (IETF) in 1999.
+the first version of TLS was developed by the internet engineering taskforce (IETF) in 1999.
 
--- TLS is also a cryptographic protocol that provides secure communication between webserver and client via implicit connections.
+TLS is also a cryptographic protocol that provides secure communication between webserver and client via implicit connections.
 
--- Four version of TLS have been released TLS 1.0, 1.1, 1.2 and 1.3.
+Four version of TLS have been released TLS 1.0, 1.1, 1.2 and 1.3.
 
 
 ---
