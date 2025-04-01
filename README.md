@@ -416,7 +416,7 @@ There are 65,535 ports in total
 
 ---
 # What is Burpsuite?
-Burpsuite is a set of tools for penetration testing of webappliactions. It was developed by the company named by Portswigger.which is the also alias of its founder dafydd struff.
+Burpsuite is a set of tools for penetration testing of webapplications. It was developed by the company named by Portswigger.which is the also alias of its founder dafydd struff.
 
 | Tool | Desription | Key features |
 |-----|------------|--------------|
