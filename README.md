@@ -260,7 +260,7 @@ The OSI model is developed by International Organisation for standardization (IS
 
 # **What is TCP/IP MOdel?**
 
---TCP/IP Model , it was desgined and devloped by department of defense (DOD) in 1960s and is based on standard protocol.It stand for transmission control protocol/Internet protocol. The TCP/IP model is a concise version of the model.
+TCP/IP Model , it was desgined and devloped by department of defense (DOD) in 1960s and is based on standard protocol.It stand for transmission control protocol/Internet protocol. The TCP/IP model is a concise version of the model.
 
 **It Contains four layer**
 
@@ -273,9 +273,7 @@ The OSI model is developed by International Organisation for standardization (IS
 
 # **What is OWASP**
 
---OWASP Top10 is an online document on OWASP's website that provides ranking of and remediations guidance for the top 10 most critical web application security risks.
-
---The owasp top 10 is a list of the most critical web application security risks, compiled by the Open Web application Security project. IT Provides guidance to devlopers, security teams, and organisations on addressing the most common and impactful vulnerabilities.
+The owasp top 10 is a list of the most critical web application security risks, compiled by the Open Web application Security project. IT Provides guidance to devlopers, security teams, and organisations on addressing the most common and impactful vulnerabilities.
 
 1. **BROKEN ACCESS CONTROL**
 
