@@ -1,23 +1,23 @@
 # Cybersecurity_common_questions
 
-Father of Cybersecurity :- BOB Thomas.
+👨‍💻 Father of Cybersecurity: Bob Thomas.
 
-Father of Networking :- Dr Ivan misner.
+🌍 Father of Networking: Dr. Ivan Misner.
 
-Linux Invented by :- Linus trovald.
+🐧 Linux Invented by: Linus Torvalds.
 
 ---
 
- # **What is Cyber security?**
+ # 🔍 What is Cybersecurity?
 
 Cybersecurity protects computer sytem network and data from theft damage and unauthorised access. It Important to safeguard sensitive information , maintain privacy and prevent financial losses and protect critical infrastructure from cyber threats.
 
-# **What is Information security?**
+# 📜 **What is Information security?**
 
 Information security is the process of employed to safeguard inforamtion in any form (Physical or electronic) from unauthorised accessed, discloure and destruction.
 
 ---
-# **What is CIA traids?**
+#🔺 **What is CIA traids?**
 
 The CIA traids is foundational model in cybersecurity, standing for Confidentiality, Intergrity and Availability. It outlines the three essential principle that ensure the protection of data.
 
