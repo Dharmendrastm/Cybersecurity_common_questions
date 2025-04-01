@@ -491,7 +491,7 @@ Attacker inject malicious script into trusted websites, which then execute in th
 
 1. **Reflected XSS** – Malicious script is injected into a request (e.g., URL) and reflected in the response. It is not stored on the server.  
 2. **Stored XSS** – The script is permanently stored on the server (e.g., in a database) and executed when users visit the affected page.  
-3. **DOM-Based XSS** – The attack manipulates the page’s DOM using JavaScript without involving the server, executing malicious code dynamically in the browser.  
+3. **DOM (Document Object Model) -Based XSS** – The attack manipulates the page’s DOM using JavaScript without involving the server, executing malicious code dynamically in the browser.  
 
 
 ---
