@@ -520,9 +520,13 @@ Malware is a malicious software that is programmed to cause damage to a computer
 
 Ransomware is a malicious software encrypting files or computer sytem and requesting a ransom for their decryption.
 
-# DoS 
+# 🛑 **DoS (Denial of Service) Attack**  
 
-Involve a single attacker flooding the target with traffic.
+A **DoS attack** involves a single attacker overwhelming the target system with excessive traffic, making it unavailable to legitimate users. 
+
+# 🌐 **DDoS (Distributed Denial of Service) Attack**  
+
+A **DDoS attack** involves multiple attackers or compromised systems flooding a target with massive amounts of traffic, overwhelming its resources and making it inaccessible to legitimate users. 🚧💻
 
 # Phishing 
 
