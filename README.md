@@ -1,4 +1,4 @@
-# Cybersecurity_common_questions
+# Cybersecurity Common Questions 🔐💻
 
 👨‍💻 Father of Cybersecurity: Bob Thomas.
 
@@ -21,56 +21,57 @@ Information security is the process of employed to safeguard inforamtion in any 
 
 The CIA traids is foundational model in cybersecurity, standing for Confidentiality, Intergrity and Availability. It outlines the three essential principle that ensure the protection of data.
 
-**Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
+**🕶️Confidentiality**:- Refers to protecting sensitive infromation from unauthorised access or disclousre.
 
-**Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
+**📋Integrity**:-Refers to maintain acuuracy and consistency of the data. that is not tempered with or modified in unauthorised manner.
 
-**Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
-
----
-
-# **Explain Vulnerability, Threats, Exploit and Risk?**
-
-**Vulnerability**:-A Vulnerability is a flaw, loopholes, oversight and error that can be exploited by violate system security policy.
-
-**Threats**:-A threat is an event, natural or man-made able to cause the negative impact of an organisation.
-
-**Exploit**:-An Exploit is defined as way to  breach the security of an IT System through a Vulnerability.
-
-**Risk**:-It is situation involving exposure to danger.
+**🖥️Availability**:- Refers to ensuring that system data and resources are avialable and accessible to authorised user when needed.
 
 ---
-# **What is AAA?**
+
+# 🚨**Explain Vulnerability, Threats, Exploit and Risk?**
+
+**🚨Vulnerability**:-A Vulnerability is a flaw, loopholes, oversight and error that can be exploited by violate system security policy.
+
+**🔥Threats**:-A threat is an event, natural or man-made able to cause the negative impact of an organisation.
+
+**⚠️🎯Exploit**:-An Exploit is defined as way to  breach the security of an IT System through a Vulnerability.
+
+**⚖️Risk**:-It is situation involving exposure to danger.
+
+---
+# 🛂**What is AAA?**
 
 It is stand for Authenticaton, Authorization and Accounting. It is framework for controlling access to resources and proper identify verification and tracking the use of system resources.
 
-**Authentication**:- Authentication is the process of verifying the identify a user, device or system attempting a access a network or resources.
+**🔑 Authentication**:- Authentication is the process of verifying the identify a user, device or system attempting a access a network or resources.
 
-**Authorization**:- Authorization is the process of granting access to resources or infromation based on user's identify role or  privileges.
+**✅Authorization**:- Authorization is the process of granting access to resources or infromation based on user's identify role or  privileges.
 
-**Accounting**:- Accounting is refers to tracking and record the action performed by a user or system. It helps monitor activities,create logs and maintain audit trails for future analysis and complinace purposes.
+**📊Accounting**:- Accounting is refers to tracking and record the action performed by a user or system. It helps monitor activities,create logs and maintain audit trails for future analysis and complinace purposes.
 
 ---
 
-# **Define Identification**
+# 🆔**Define Identification**
 
 Identification is the process of reognizing and uniquely identifying user within system or application. It establishe who the user.
 
 ---
 
-# **What is 3-way Hanshake?**
+# 🤝**What is 3-way Hanshake?**
 
 A three way handshake is a method of TCP/IP network to create a connection  between a local host/ client and server.
 
-**SYN(SYNCHRONIZE)**:- The client send a SYN message to the server to initiates connection.
+**1️⃣SYN(SYNCHRONIZE)**:- The client send a SYN message to the server to initiates connection.
 
-**SYN-ACK**:- The server sends (SYN-ACK) packets to the client . if it has open ports.
+**2️⃣SYN-ACK**:- The server sends (SYN-ACK) packets to the client . if it has open ports.
 
-**ACK(Acknowledgement)**:- The client sends an (ACk) packet to confirm the connection is establish.
+**3️⃣ACK(Acknowledgement)**:- The client sends an (ACk) packet to confirm the connection is establish.
 
 ----
 
-# **What is SSL/TLS handshake?**
+#🔐 **What is SSL/TLS handshake?**
+🌐**SSL**
 SSL Stand for  Secure Scoket layer.
 
 Netscape was developed the first version of SSL in 1995.
@@ -79,7 +80,7 @@ SSL is a cryptographic protocol that uses explicit connections to establish secu
 
 Three version of SSL have been released SSL 1.0,2.0 and 3.0 .
 
-**TLS**
+**🌍TLS**
 
 TLS Stand for Transport Layer Security.
 
@@ -93,19 +94,19 @@ Four version of TLS have been released TLS 1.0, 1.1, 1.2 and 1.3.
 ---
 
 # **Accounting and Auditing**
-**Accounting**
+**📜Accounting**
 
 Accounting is refers to tracking and recording to the action performed by a user or system. It helps monitor activities, create logs, and maintain audits trails for future analysis and compliance purposes.
 
-**Auditing**
+**🔍Auditing**
 
 The portion of accouting requires security professionals to examine logs of what was recorded.
 
 ---
 
-# **Encryption , Encoding  and Hashing**
+# 🔑**Encryption , Encoding  and Hashing**
 
-**Encryption**:-Protect data confidentiality by transforming plaintext into cipher text.
+**🔒Encryption**:-Protect data confidentiality by transforming plaintext into cipher text.
 
 **Decryption**:- Reversible with the correct decryption key.
 
@@ -124,8 +125,7 @@ Ex:- MD5, SHA-1 , SHA-256
 
 ---
 
-# Difference between TCP and UDP
-
+# 🔄Difference between TCP and UDP
 
 | Feature            |It stands for TCP (Transmission Control Protocol) |It stands for UDP (User Datagram Protocol) |
 |--------------------|----------------------------------|----------------------------|
@@ -135,36 +135,34 @@ Ex:- MD5, SHA-1 , SHA-256
 | **Usage**        | Used by HTTP, HTTPS, FTP, SMTP, Telnet | Used by DNS, DHCP, TFTP, SNMP, RIP, VOIP |
 
 ---
-# What is Firewall and Why it is used?
+# 🔥What is Firewall and Why it is used?
 The Firewall is a network Security system  set on boundaries of the system/network that monitors and controls network traffic.
 Firewall is mainly used  to protect the system/network from viruses, worms, malware, etc. Firewalls can also be to prevent remote access and content filtering.
 
-# What is web Application Firewall?
+# 🌍What is web Application Firewall?
 The Web application firewall helps to protect web applications by filtering and monitoring the HTTP traffic between a web application and the internet.
 
 ---
-# IDS and IPS
+# 🛡️IDS and IPS
 
-IDS (Intrusion Detection System): Monitors network traffic and generate suspicious activity is detected.
+🧐 IDS (Intrusion Detection System): Monitors network traffic and generate suspicious activity is detected.
 
-IPS(Intrusion Preventation System): Not Only Detects but also actively block orprevent suspicious network activity.
-
----
-# What is VPN?
-A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection between your device and the internet, protecting your online privacy and data. It hides your IP address and encrypts your internet traffic, making it difficult for hackers, governments, and ISPs (Internet Service Providers) to track your online activities.
-
-**How VPN Works?**
-
-Encryption – A VPN encrypts your internet connection, preventing third parties from intercepting your data.
-
-Tunneling – It creates a secure tunnel between your device and a VPN server, ensuring data travels safely.
-
-IP Masking – Your real IP address is replaced with the VPN server’s IP, making your location and identity anonymous.
+🛑 IPS(Intrusion Preventation System): Not Only Detects but also actively block orprevent suspicious network activity.
 
 ---
-# **What is OSI Model?**
+🏴 What is a VPN?
 
---OSI stand for open system interconnections a reference model that descibes how information from a software appliactions in one computer moves through a physical medium to the software application in another computer.
+A VPN (Virtual Private Network) creates a secure and encrypted connection between your device and the internet. 🛜 It hides your IP address, encrypts internet traffic, and protects online privacy. 🔐
+
+🔄 How VPN Works?
+1️⃣ Encryption: Protects data from third-party interception.
+2️⃣ Tunneling: Creates a secure path between the device and VPN server.
+3️⃣ IP Masking: Replaces your real IP with a VPN server’s IP.
+
+---
+#📶 **What is OSI Model?**
+
+--OSI stand for open system interconnections a reference model that descibes how information from a software appliactions in one computer moves through a physical medium to the software application in another computer.🌍
 
 The OSI model is developed by International Organisation for standardization (ISO) in 1984.
 
