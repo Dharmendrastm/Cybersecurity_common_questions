@@ -148,7 +148,7 @@ The Web application firewall helps to protect web applications by filtering and 
 
 🧐 IDS (Intrusion Detection System): Monitors network traffic and generate suspicious activity is detected.
 
-🛑 IPS(Intrusion Preventation System): Not Only Detects but also actively block orprevent suspicious network activity.
+🛑 IPS(Intrusion Preventation System): Not Only Detects but also actively block or prevent suspicious network activity.
 
 ---
 🏴 What is a VPN?
