@@ -559,5 +559,33 @@ There are mainly three types of hackers.
 # Cryptographic 
 Cryptographic is the science of encrypting and decrypting information to prevent unauthorised access.
 
+--
+# VAPT Difference 
+### **1. Vulnerability Assessment (VA)**  
+Vulnerability Assessment is the process of identifying weaknesses in a target system or network. In this approach, the organization is aware that vulnerabilities exist within their infrastructure and aims to detect, assess, and prioritize them for remediation.
+
+### **2. Penetration Testing (PT)**  
+Penetration testing is the process of finding Vulnerability of the target. It describe the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications.
+
+
+### **Key Differences**  
+| Feature            | VA (Vulnerability Assessment)  | PT (Penetration Testing)  |
+|-------------------|-----------------------------|---------------------------|
+| **Goal**         | Identify vulnerabilities     | Exploit vulnerabilities   |
+| **Method**       | Automated scanning          | Manual + Automated testing |
+| **Depth**        | Surface-level analysis      | Deep, real-world attack simulation |
+| **Exploitation** | No                          | Yes (to validate risks)  |
+| **Output**       | List of vulnerabilities     | Proof of compromise + risk assessment |
+
+
+
+# What is the difference between symmetric and asymmetric encryption?
+| Basis of Comparison | Symmetric Encryption | Asymmetric encryption |
+|--------------------|--------------------------|---------------------|
+| Encryption key | Same key for encryption & decryption | Different keys for encryption and decryption |
+| Performance | Encryption is fast but more vulnerable | Encryption is slow  due to high computation |
+| Algorithms | DES, RC4, AES | Diffie-hellman, RSA |
+| Purpose | Used to bulk data transmisson | often used for securely exchange secret keys |
+
 
 
