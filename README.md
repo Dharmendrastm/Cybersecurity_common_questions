@@ -328,7 +328,7 @@ The owasp top 10 is a list of the most critical web application security risks, 
 **EX**:-Not logging failed login attempt or ignoring alerts for  suspicious activity.
 
 10. **Server-side request frogery (SSRF)**
-    -- An attacker tricks a server into making unintended requests to other resources. potentially exposing sensitive internal systems.
+    -- An attacker can cause a server to make unexpected requests for other resources, which could expose sensitive internal systems.
 
 **EX**:- Exploiting an API to make the server fetch unauthorised data from internal netwoks.
 
