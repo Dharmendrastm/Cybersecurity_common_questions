@@ -428,7 +428,8 @@ Burpsuite is a set of tools for penetration testing of webapplications. It was d
 
 ---
 # What is wireshark?
-Wireshark is an open-source tool very widely used to traffic in a network in real time. It helps us to analyse the data packets flowing in the network thus providing valuable information about the network behaviour and its performance as well as security. 
+Wireshark is a free and open-source network protocol analyzer used for capturing and analyzing network traffic, helping troubleshoot network issues, analyze protocols, and ensure network security. .
+
 Network Traffic Analysis,Intrusion Detection and Prevention,Malware Analysis,Network Forensics,Vulnerability Analysis,Security Monitoring and Incident Response.
 
 ---
