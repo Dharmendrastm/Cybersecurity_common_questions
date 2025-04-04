@@ -530,10 +530,6 @@ A **DoS attack** involves a single attacker overwhelming the target system with 
 
 A **DDoS attack** involves multiple attackers or compromised systems flooding a target with massive amounts of traffic, overwhelming its resources and making it inaccessible to legitimate users. 🚧💻
 
-# Phishing 
-
-Phishing is a social engineering attack where attacker impersonate a trusted entity (Via emails, meassages or website) to trick victims. into divulgying sensitive information such as passwords or financial details.
-
 # MITM (Man-in-the-middle-attack) 
 
 In this attack the attacker securetly intercepts and alters communication between two parties without their knowledgement.
@@ -543,6 +539,10 @@ EX:- An attacker eavesdroppping on communication in apublic Wi-Fi network to ste
 # What is Social Engineering?
 
 Social Engineering manipulates individuals to disclouse confidential information or perform action for malicious purposes.
+
+# Phishing 
+
+Phishing is a social engineering attack where attacker impersonate a trusted entity (Via emails, meassages or website) to trick victims. into divulgying sensitive information such as passwords or financial details.
 
 ---
 
