@@ -368,8 +368,8 @@ There are 65,535 ports in total
 | FTP | 20,21 | File transfer Protocol use:- Transfer files uploading and Download |
 | SSH | 22 | Secure Shell Use:- Encrypts the connection fro remote login |
 | Telnet | 23 | Establish a connection to remote login Note:- Does not encrypt data linke SSH |
-| RDP | 3389 | Remote Desktop protocol | Use :- Connects a remote windows computers |
-| DNS | 53 | Domian Name System | Maps URL to IPs addresses |
+| RDP | 3389 | Remote Desktop protocol Use :- Connects a remote windows computers |
+| DNS | 53 | Domian Name System Maps URL to IPs addresses |
 | SMTP | 25 | Simple mail transfer protocol  use: Sending mails |
 | POP3 | 110 | Post Office Protocol v3 |
 | MYSQL | 3306 | MySQL Databases Use: Connects to mysql databases |
@@ -428,7 +428,7 @@ Burpsuite is a set of tools for penetration testing of webapplications. It was d
 
 ---
 # What is wireshark?
-Wireshark is a free and open-source network protocol analyzer used for capturing and analyzing network traffic, helping troubleshoot network issues, analyze protocols, and ensure network security. .
+Wireshark is a free and open-source network protocol analyzer used for capturing and analyzing network traffic, helping troubleshoot network issues, analyze protocols, and ensure network security. 
 
 Network Traffic Analysis,Intrusion Detection and Prevention,Malware Analysis,Network Forensics,Vulnerability Analysis,Security Monitoring and Incident Response.
 
@@ -457,7 +457,6 @@ Nmap (Network Mapper) is an open-source tool used for network discovery and secu
 | IP protocol scan | nmap -sO <target> |
 
 
-
 ---
 # What is SQLMap?
 SQLmap is an open-source tool that automates the detection and exploitation of SQL injection vulnerabilities in web applications.
@@ -482,6 +481,7 @@ SQLmap is an open-source tool that automates the detection and exploitation of S
 | WAF bypass with delays | sqlmap -u "http://test.com" --delay=5 |
 | WAF Bypass with Custom Payload | sqlmap -u "http://test.com" --tamper="random_case" |
 
+
 ---
 # What is cross-site scripting?
 
@@ -491,11 +491,11 @@ Attacker inject malicious script into trusted websites, which then execute in th
 2. **Stored XSS** – The script is permanently stored on the server (e.g., in a database) and executed when users visit the affected page.  
 3. **DOM (Document Object Model) -Based XSS** – The attack manipulates the page’s DOM using JavaScript without involving the server, executing malicious code dynamically in the browser.  
 
-
 ---
 # What is SQl Injection ?
 
 Attacker insert malicious sql code into a web application database query allowing them maipulate or gain unauthrised access to the database.
+
 1. **Boolean-Based SQLi** – Exploits conditional responses (true/false) to infer database information.  
 2. **Time-Based SQLi** – Uses delays (e.g., `SLEEP()` function) to determine if a query is vulnerable.  
 3. **Error-Based SQLi** – Extracts data by triggering database error messages.  
