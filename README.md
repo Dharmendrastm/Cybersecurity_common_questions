@@ -538,6 +538,8 @@ Phishing is a social engineering attack where attacker impersonate a trusted ent
 
 In this attack the attacker securetly intercepts and alters communication between two parties without their knowledgement.
 
+EX:- An attacker eavesdroppping on communication in apublic Wi-Fi network to steal login credentials or sensitive information.
+
 # What is Social Engineering?
 
 Social Engineering manipulates individuals to disclouse confidential information or perform action for malicious purposes.
